@@ -12,7 +12,7 @@ bmRad = 12;
 
 // add rounded edge to ball marker
 
-/*
+
 
 difference(){
     //translate([bmRad, bmRad])
@@ -32,9 +32,9 @@ difference(){
 
     
 }
-*/
 
-base_ball_marker();
+
+//base_ball_marker();
 module base_ball_marker() {
 difference(){
     union(){    
